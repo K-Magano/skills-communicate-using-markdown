@@ -10,3 +10,11 @@ Now I am adding this cute code
 ``` javascript
 var myVar = "Hello, Dev world!";
 ```
+
+Adding a task list 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Panicked alone
+- [ ] Recovered form anxiety
+- [ ] Ready for world domination!

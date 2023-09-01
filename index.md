@@ -1,6 +1,7 @@
-# This is an `<h1>` header, which is the largest Dev's on .MD
+# The largest Dev's on .MD
 
-## This is an `<h2>` header With Dave
+## With Dave
 
-###### This is an `<h6>` header, which is the smallest its so tinny
+###### which is the smallest is so tinny
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) A cute cat thingy

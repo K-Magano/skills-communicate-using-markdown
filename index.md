@@ -5,3 +5,8 @@
 ###### which is the smallest is so tinny
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) A cute cat thingy
+
+Now I am adding this cute code 
+``` javascript
+var myVar = "Hello, Dev world!";
+```
